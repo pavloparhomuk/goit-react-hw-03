@@ -1,0 +1,20 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgb(0, 0, 6);
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  width: 340px;
+  line-height: 1.8;
+}
+
+span {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.name svg {
+  height: 22px;
+  width: 22px;
+}
